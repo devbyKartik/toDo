@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshort code for test using snapshort 1`] = `
+<h1>
+  Snapshort Testing
+</h1>
+`;
+
